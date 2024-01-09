@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.tuan3myapplication.app-mergeDebugResources-64:/layout/activity_tuan41_main.xml",
+        "source": "com.example.tuan3myapplication.app-main-67:/layout/activity_tuan41_main.xml"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-mergeDebugResources-64:/layout/activity_tuan43_main.xml",
+        "source": "com.example.tuan3myapplication.app-main-67:/layout/activity_tuan43_main.xml"
+    }
+]

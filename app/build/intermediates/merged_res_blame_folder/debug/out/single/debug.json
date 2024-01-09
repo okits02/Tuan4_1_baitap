@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/drawable_one65.png.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/drawable/one65.png"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/drawable_kimnamjoo.jpg.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/drawable/kimnamjoo.jpg"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/drawable_shank.png.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/drawable/shank.png"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/layout_activity_tuan43_main.xml.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/layout/activity_tuan43_main.xml"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/navigation_nav_graph.xml.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/xml_backup_rules.xml.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/drawable_kimheesun.jpg.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/drawable/kimheesun.jpg"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/drawable_kimsoeun.jpg.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/drawable/kimsoeun.jpg"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/drawable_kimtaehee.jpg.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/drawable/kimtaehee.jpg"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/layout_activity_tuan41_main.xml.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/layout/activity_tuan41_main.xml"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/xml_tuan32_listview_item_scene.xml.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/xml/tuan32_listview_item_scene.xml"
+    },
+    {
+        "merged": "com.example.tuan3myapplication.app-merged_res-65:/drawable_hancock.png.flat",
+        "source": "com.example.tuan3myapplication.app-main-67:/drawable/hancock.png"
+    }
+]

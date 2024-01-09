@@ -1,0 +1,201 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.tuan3myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:4:5-67
+11-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:5:5-79
+12-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:5:22-76
+13
+14    <permission
+14-->[androidx.core:core:1.12.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d9df576dcaca9e76e24725bc3e0fc475\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+15        android:name="com.example.tuan3myapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+15-->[androidx.core:core:1.12.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d9df576dcaca9e76e24725bc3e0fc475\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+16        android:protectionLevel="signature" />
+16-->[androidx.core:core:1.12.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d9df576dcaca9e76e24725bc3e0fc475\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+17
+18    <uses-permission android:name="com.example.tuan3myapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+18-->[androidx.core:core:1.12.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d9df576dcaca9e76e24725bc3e0fc475\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+18-->[androidx.core:core:1.12.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d9df576dcaca9e76e24725bc3e0fc475\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+19
+20    <application
+20-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:6:5-46:19
+21        android:allowBackup="true"
+21-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:7:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.12.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d9df576dcaca9e76e24725bc3e0fc475\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+23        android:dataExtractionRules="@xml/data_extraction_rules"
+23-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:8:9-65
+24        android:debuggable="true"
+25        android:extractNativeLibs="false"
+26        android:fullBackupContent="@xml/backup_rules"
+26-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:9:9-54
+27        android:icon="@mipmap/ic_launcher"
+27-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:10:9-43
+28        android:label="@string/app_name"
+28-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:11:9-41
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:12:9-54
+30        android:supportsRtl="true"
+30-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:13:9-35
+31        android:testOnly="true"
+32        android:theme="@style/Theme.AppCompat.Light" >
+32-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:14:9-53
+33        <activity
+33-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:16:9-24:20
+34            android:name="com.example.tuan3myapplication.Tuan4.Tuan43MainActivity"
+34-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:17:13-53
+35            android:exported="true" >
+35-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:18:13-36
+36            <intent-filter>
+36-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:19:13-23:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:20:17-69
+37-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:20:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:22:17-77
+39-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:22:27-74
+40            </intent-filter>
+41        </activity>
+42        <activity
+42-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:25:9-27:40
+43            android:name="com.example.tuan3myapplication.Tuan4.Tuan41MainActivity"
+43-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:26:13-53
+44            android:exported="false" />
+44-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:27:13-37
+45        <activity
+45-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:28:9-32:60
+46            android:name="com.example.tuan3myapplication.Tuan41.Tuan412MainActivity"
+46-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:29:13-55
+47            android:exported="false"
+47-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:30:13-37
+48            android:label="@string/title_activity_tuan412_main"
+48-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:31:13-64
+49            android:theme="@style/Theme.AppCompat.Light" />
+49-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:32:13-57
+50        <activity
+50-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:33:9-35:40
+51            android:name="com.example.tuan3myapplication.Tuan41.Tuan41MainActivity"
+51-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:34:13-54
+52            android:exported="false" />
+52-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:35:13-37
+53        <activity
+53-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:36:9-40:20
+54            android:name="com.example.tuan3myapplication.Tuan32.Tuan32MainActivity"
+54-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:37:13-54
+55            android:exported="true" >
+55-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:38:13-36
+56        </activity>
+57        <activity
+57-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:41:9-45:63
+58            android:name="com.example.tuan3myapplication.MainActivity"
+58-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:42:13-41
+59            android:exported="true"
+59-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:43:13-36
+60            android:label="@string/app_name"
+60-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:44:13-45
+61            android:theme="@style/Theme.Tuan3MyApplication" />
+61-->D:\luyen code\mobile application programming\Tuan3MyApplication\app\src\main\AndroidManifest.xml:45:13-60
+62        <activity
+62-->[androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\00d0f7322cd15a5e02258c3c4539c057\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+63            android:name="androidx.compose.ui.tooling.PreviewActivity"
+63-->[androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\00d0f7322cd15a5e02258c3c4539c057\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+64            android:exported="true" />
+64-->[androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\00d0f7322cd15a5e02258c3c4539c057\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+65        <activity
+65-->[androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\c15bcf1bded28fa354e3e5db4bcd6948\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:23:9-25:39
+66            android:name="androidx.activity.ComponentActivity"
+66-->[androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\c15bcf1bded28fa354e3e5db4bcd6948\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:24:13-63
+67            android:exported="true" />
+67-->[androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\c15bcf1bded28fa354e3e5db4bcd6948\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:25:13-36
+68
+69        <provider
+69-->[androidx.emoji2:emoji2:1.4.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\04da80a6fca3327fe9f97cceef988bb0\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+70            android:name="androidx.startup.InitializationProvider"
+70-->[androidx.emoji2:emoji2:1.4.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\04da80a6fca3327fe9f97cceef988bb0\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
+71            android:authorities="com.example.tuan3myapplication.androidx-startup"
+71-->[androidx.emoji2:emoji2:1.4.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\04da80a6fca3327fe9f97cceef988bb0\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
+72            android:exported="false" >
+72-->[androidx.emoji2:emoji2:1.4.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\04da80a6fca3327fe9f97cceef988bb0\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37
+73            <meta-data
+73-->[androidx.emoji2:emoji2:1.4.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\04da80a6fca3327fe9f97cceef988bb0\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+74                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+74-->[androidx.emoji2:emoji2:1.4.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\04da80a6fca3327fe9f97cceef988bb0\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+75                android:value="androidx.startup" />
+75-->[androidx.emoji2:emoji2:1.4.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\04da80a6fca3327fe9f97cceef988bb0\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+76            <meta-data
+76-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\b4368718c3b02f2896611cb2bd631446\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+77                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+77-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\b4368718c3b02f2896611cb2bd631446\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+78                android:value="androidx.startup" />
+78-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\b4368718c3b02f2896611cb2bd631446\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+79            <meta-data
+79-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+80                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+81                android:value="androidx.startup" />
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+82        </provider>
+83
+84        <uses-library
+84-->[androidx.window:window:1.0.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\68b10bb5853c37a9b92334c2358b0bb4\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+85            android:name="androidx.window.extensions"
+85-->[androidx.window:window:1.0.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\68b10bb5853c37a9b92334c2358b0bb4\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+86            android:required="false" />
+86-->[androidx.window:window:1.0.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\68b10bb5853c37a9b92334c2358b0bb4\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+87        <uses-library
+87-->[androidx.window:window:1.0.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\68b10bb5853c37a9b92334c2358b0bb4\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+88            android:name="androidx.window.sidecar"
+88-->[androidx.window:window:1.0.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\68b10bb5853c37a9b92334c2358b0bb4\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+89            android:required="false" />
+89-->[androidx.window:window:1.0.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\68b10bb5853c37a9b92334c2358b0bb4\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+90
+91        <receiver
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+92            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+93            android:directBootAware="false"
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+94            android:enabled="true"
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+95            android:exported="true"
+95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+96            android:permission="android.permission.DUMP" >
+96-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+97            <intent-filter>
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+98                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+99            </intent-filter>
+100            <intent-filter>
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+101                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+102            </intent-filter>
+103            <intent-filter>
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+104                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+105            </intent-filter>
+106            <intent-filter>
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+107                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\LAPTOP24H\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+108            </intent-filter>
+109        </receiver>
+110    </application>
+111
+112</manifest>
